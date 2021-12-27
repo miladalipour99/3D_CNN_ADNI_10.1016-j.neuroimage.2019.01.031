@@ -5,7 +5,7 @@ You can read more about it, including the data required, in this medium [link](h
 
 this [link](https://drive.google.com/file/d/1YzE9_G0_Iu05NLzQaYNjRXYMXBKx2yW5/view?usp=sharing) of dissertation. 
 
-The code was developed by Daniel Wilde [link](https://www.linkedin.com/in/daniel-wilde-a7b98b183/?originalSubdomain=uk)
+General code was developed by Daniel Wilde [link](https://www.linkedin.com/in/daniel-wilde-a7b98b183/?originalSubdomain=uk)
 
 ## Features
 
